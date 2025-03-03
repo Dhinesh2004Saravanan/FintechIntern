@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917016400830",
+    "project_id": "internproject-af1ca",
+    "storage_bucket": "internproject-af1ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917016400830:android:dad501fe9498b98ad79fef",
+        "android_client_info": {
+          "package_name": "com.example.intern_film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEYEJ50qbA-5xQKKE7_LQL-p9AcceUTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
