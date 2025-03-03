@@ -1,3 +1,5 @@
+Internship Assesment
+
 Implement Firebase authentication in the app, allowing users to register and log in using their email and password.
 Ensure proper error handling (e.g., invalid email/password, account already exists).
 
