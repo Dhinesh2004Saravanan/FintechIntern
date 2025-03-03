@@ -1,16 +1,6 @@
-# intern_film
+Implement Firebase authentication in the app, allowing users to register and log in using their email and password.
+Ensure proper error handling (e.g., invalid email/password, account already exists).
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Drive link:
+https://drive.google.com/file/d/1ttKSCqxmMCwqRHrz_QX-aie_L1c4FqDE/view?usp=sharing
